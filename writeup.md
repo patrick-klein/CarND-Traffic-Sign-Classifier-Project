@@ -93,10 +93,10 @@ The final ConvNet had the following architecture:
 || Layer         		|     Description	        					|
 |:---------------------:|:---------------------:|:---------------------------------------------:|
 || Input         		                  | 32x32x1 grayscale image   							        |
-|L1<sub>a</sub>| Convolution 3x3   	  | 6 5x5 kernels, 1x1 stride, outputs 28x28x6 	    |
+|L1<sub>a</sub>| 2D Convolution   	  | 6 5x5 kernels, 1x1 stride, outputs 28x28x6 	    |
 |L1<sub>b</sub>| RELU					        |												                          |
 |L1<sub>c</sub>| Max pooling	      	| 2x2 kernel, 2x2 stride,  outputs 14x14x6        |
-|L2<sub>a</sub>| Convolution 3x3     	| 16 5x5 kernels, 1x1 stride, outputs 10x10x16 	  |
+|L2<sub>a</sub>| 2D Convolution     	| 16 5x5 kernels, 1x1 stride, outputs 10x10x16 	  |
 |L2<sub>b</sub>| RELU					        |	                                                |
 |L2<sub>c</sub>| Max pooling	      	| 2x2 kernel, 2x2 stride,  outputs 5x5x16 	      |
 |L3<sub>a</sub>| Flatten & Concatenate| flatten & concatenate L1<sub>c</sub> and L2<sub>c</sub>, outputs 1576  |
