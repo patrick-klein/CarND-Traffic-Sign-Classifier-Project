@@ -89,7 +89,7 @@ Both of these functions were designed in TensorFlow so that it could easily be i
 The final ConvNet had the following architecture:
 
 || Layer         		|     Description	        					|
-|:---------------------:|:---------------------------------------------:|
+|:---------------------:|:---------------------:|:---------------------------------------------:|
 || Input         		                  | 32x32x1 grayscale image   							        |
 |L1<sub>a</sub>| Convolution 3x3   	  | 6 5x5 kernels, 1x1 stride, outputs 28x28x6 	    |
 |L1<sub>b</sub>| RELU					        |												                          |
