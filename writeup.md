@@ -11,7 +11,7 @@ In this writeup, a ConvNet is trained to recognize traffic signs in the [German 
 2. Design and Test a Model Architecture
 3. Test the Model on New Images
 
-The code for this project is available in both an [iPython Notebook](https://github.com/patrick-klein/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb) and [HTML document](https://github.com/patrick-klein/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.html) on my [GitHub repo](https://github.com/patrick-klein/CarND-Traffic-Sign-Classifier-Project), per project guidelines.  This writeup will explicitly address the requirements in the [project rubric](https://review.udacity.com/#!/rubrics/481/view).
+The code for this project is available in both an [iPython Notebook](https://github.com/patrick-klein/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb) and [HTML document](https://github.com/patrick-klein/CarND-Traffic-Sign-Classifier-Project/blob/master/report.html) on my [GitHub repo](https://github.com/patrick-klein/CarND-Traffic-Sign-Classifier-Project), per project guidelines.  This writeup will explicitly address the requirements in the [project rubric](https://review.udacity.com/#!/rubrics/481/view).
 
 Code has been tested on my personal computer running macOS 10.13 and an AWS instance, both within the *carnd-term1* environment.
 
