@@ -157,7 +157,7 @@ Here are the results of the prediction:
 | Image			        |     Prediction	        					|
 |:---------------------:|:---------------------------------------------:|
 | 70 km/h      		   | 30 km/h   							|
-| Wildlife Crossing  | Wildlife crossing			|
+| Wildlife Crossing  | Wildlife Crossing			|
 | 50 km/h					   | 60 km/h								|
 | Yield	      	     | Yield					 				|
 | 30 km/h			       | 30 km/h      					|
